@@ -7,7 +7,7 @@ Beyond writing code, I believe great software is built through collaboration, cu
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,javascript,spring,hibernate,git,html,css,bootstrap,jquery,react" />
+  <img src="https://skillicons.dev/icons?i=java,php,javascript,spring,hibernate,git,html,css,bootstrap,jquery,react,flutter" />
 </p>
 
 
